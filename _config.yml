@@ -1,8 +1,8 @@
-title: meteor-application-template-react
+title: digits
 description: A template for quickly starting Meteor application development
 google_analytics:
 show_downloads: true
-theme: jekyll-theme-cayman
+remote_theme: pages-themes/architect@v0.2.0
 
 gems:
   - jekyll-mentions
