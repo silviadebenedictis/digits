@@ -77,7 +77,7 @@ The next step is to use the Login menu to either Login to an existing account or
 
 #### Login page
 
-Clicking on the Login link, then on the Sign In menu item displays this page:
+Clicking on the Sign In menu item displays this page:
 
 <img src="doc/signin-page.png">
 
@@ -94,7 +94,7 @@ Once you log in (either to an existing account or by creating a new one), the na
 
 <img src="doc/landing-after-login-page.png">
 
-You can now add new Stuff documents, and list the Stuff you have created. Note you cannot see any Stuff created by other users.
+You can now add new contacts and save them. Note you cannot see any Contact created by other users.
 
 #### Add Contact page
 
@@ -104,11 +104,11 @@ After logging in, here is the page that allows you to add a new contact:
 
 #### List Contact page
 
-After logging in, here is the page that allows you to list all the Contacts you have created:
+After logging in, here is the page that allows you to list all the contacts you have created:
 
 <img src="doc/list-contact-page.png">
 
-You click the "Edit" link to go to the Edit Contact page, shown next.
+To "Edit" a contact, you can click on the bottom link of the contact to go to the Edit Contact page, shown next.
 
 #### Edit Contact page
 
