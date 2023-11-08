@@ -1,5 +1,5 @@
 title: digits
-description: A template for quickly starting Meteor application development
+description: A contact manager application 
 google_analytics:
 show_downloads: true
 remote_theme: pages-themes/architect@v0.2.0
